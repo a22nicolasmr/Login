@@ -1,0 +1,13 @@
+h1{
+    color: magenta;
+}
+#b{
+    font-size: small;
+    color: grey;
+}
+input[type="submit"] {
+    background-color: magenta;
+    border-color: magenta;
+    border-radius: 3px; 
+    color: white;
+}
